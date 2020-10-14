@@ -2332,6 +2332,11 @@ a:hover.item-folio__cat{
 .item-folio__caption {
     display: none;
 }
+.btn_contact{
+    display: flex;
+    justify-content: center;
+    margin-top: 4rem;
+}
 .item-folio__project-link {
     display: block;
     color: #FFFFFF;
